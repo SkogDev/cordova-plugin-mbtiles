@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-mbtiles",
+  "name": "com.makina.offline.mbtiles",
   "version": "1.0.0",
   "description": "mbtiles plugin",
   "cordova": {
