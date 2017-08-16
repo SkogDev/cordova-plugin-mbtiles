@@ -12,14 +12,11 @@
     "type": "git",
     "url": "https://github.com/SkogDev/cordova-plugin-mbtiles"
   },
-  "bugs": {
-  },
-  "keywords": [
-  ],
-  "scripts": {
-  },
-  "engines": {
-  },
-  "devDependencies": {}
-   
+  "bugs": {},
+  "keywords": [],
+  "scripts": {},
+  "engines": {},
+  "devDependencies": {
+    "cordova-plugin-file-transfer": "^1.6.3"
+  }
 }
