@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "mbtiles plugin",
   "cordova": {
-    "id": "cordova-plugin-mbtiles",
+    "id": "com.makina.offline.mbtiles",
     "platforms": [
       "android"
     ]
