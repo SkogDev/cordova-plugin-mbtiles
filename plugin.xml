@@ -8,7 +8,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     <license>Apache 2.0</license>
     <keywords>cordova,mbtiles</keywords>
     
-    <!-- dependency id="org.apache.cordova.file@1" /-->
+    <dependency id="cordova-plugin-file" version="4.3.3" />
     <dependency id="org.apache.cordova.file-transfer" version="1.6.3" />
 
     <!-- android -->
