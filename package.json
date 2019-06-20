@@ -17,7 +17,6 @@
   "scripts": {},
   "engines": {},
   "devDependencies": {
-    "cordova-plugin-file": "4.3.3",
-    "cordova-plugin-file-transfer": "1.6.3"
+    "cordova-plugin-file": "^5.0.0"
   }
 }
